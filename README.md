@@ -18,13 +18,42 @@
 * [RAG](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#rag)
 * [Computer Vision](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#computer-vision)
 * [Security](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#security)
+* [AI Infrastructure](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#ai-infrastructure)
 
 ---
   
 
 ### Agentic AI and Agents
 
-▶ How to Build Human-in-the-Loop Plan-and-Execute AI Agents with Explicit User Approval Using LangGraph and Streamlit [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/human_in_the_loop_plan_execute_agent_langgraph_streamlit_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/16/how-to-build-human-in-the-loop-plan-and-execute-ai-agents-with-explicit-user-approval-using-langgraph-and-streamlit/)
+▶ A Coding Implementation Showcasing ClawTeam's Multi-Agent Swarm Orchestration with OpenAI Function Calling [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/ClawTeam_Agent_Swarm_Intelligence_OpenAI_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/)
+
+▶ A Coding Implementation to Design an Enterprise AI Governance System Using OpenClaw Gateway Policy Engines, Approval Workflows and Auditable Agent Execution [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/openclaw_enterprise_ai_governance_gateway_approval_workflows_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/)
+
+▶ How to Build an Autonomous Machine Learning Research Loop in Google Colab Using Andrej Karpathy’s AutoResearch Framework for Hyperparameter Discovery and Experiment Tracking [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/autoresearch_autonomous_ml_research_colab_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/)
+
+▶ How to Design a Streaming Decision Agent with Partial Reasoning, Online Replanning, and Reactive Mid-Execution Adaptation in Dynamic Environments [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/streaming_decision_agent_online_replanning_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/11/how-to-design-a-streaming-decision-agent-with-partial-reasoning-online-replanning-and-reactive-mid-execution-adaptation-in-dynamic-environments/)
+
+▶ How to Build a Self-Designing Meta-Agent That Automatically Constructs, Instantiates, and Refines Task-Specific AI Agents [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/meta_agent_auto_designer_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/10/how-to-build-a-self-designing-meta-agent-that-automatically-constructs-instantiates-and-refines-task-specific-ai-agents/)
+
+▶ How to Build a Risk-Aware AI Agent with Internal Critic, Self-Consistency Reasoning, and Uncertainty Estimation for Reliable Decision-Making [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/critic_augmented_risk_aware_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/09/how-to-build-a-risk-aware-ai-agent-with-internal-critic-self-consistency-reasoning-and-uncertainty-estimation-for-reliable-decision-making/)
+
+▶ Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Validation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/cognitive_blueprint_runtime_agents_auton_framework_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/)
+
+▶ How to Design an Advanced Tree-of-Thoughts Multi-Branch Reasoning Agent with Beam Search, Heuristic Scoring, and Depth-Limited Pruning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/tree_of_thoughts_multi_branch_reasoning_agent_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/05/how-to-design-an-advanced-tree-of-thoughts-multi-branch-reasoning-agent-with-beam-search-heuristic-scoring-and-depth-limited-pruning/)
+
+▶ How to Build an EverMem-Style Persistent AI Agent OS with Hierarchical Memory, FAISS Vector Retrieval, SQLite Storage, and Automated Memory Consolidation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/evermem_persistent_agent_os_faiss_sqlite_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/04/how-to-build-an-evermem-style-persistent-ai-agent-os-with-hierarchical-memory-faiss-vector-retrieval-sqlite-storage-and-automated-memory-consolidation/)
+
+▶ How to Design a Production-Grade Multi-Agent Communication System Using LangGraph Structured Message Bus, ACP Logging, and Persistent Shared State Architecture [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agent%20Communication%20Protocol/Getting%20Started/langgraph_acp_structured_message_bus_multi_agent_system_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/01/how-to-design-a-production-grade-multi-agent-communication-system-using-langgraph-structured-message-bus-acp-logging-and-persistent-shared-state-architecture/)
+
+▶ A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and Structured Multi-Agent Reasoning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/hierarchical_planner_ai_agent_open_source_llm_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/)
+
+▶ How to Build a Production-Grade Customer Support Automation Pipeline with Griptape Using Deterministic Tools and Agentic Reasoning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20Workflows/griptape_customer_support_automation_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/23/how-to-build-a-production-grade-customer-support-automation-pipeline-with-griptape-using-deterministic-tools-and-agentic-reasoning/)
+
+▶ How to Design a Swiss Army Knife Research Agent with Tool-Using AI, Web Search, PDF Analysis, Vision, and Automated Reporting [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/swiss_army_knife_research_agent_tool_using_ai_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/20/how-to-design-a-swiss-army-knife-research-agent-with-tool-using-ai-web-search-pdf-analysis-vision-and-automated-reporting/)
+
+▶ How to Design an Agentic Workflow for Tool-Driven Route Optimization with Deterministic Computation and Structured Outputs [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20Workflows/agentic_workflow_tool_driven_route_optimization_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/21/how-to-design-an-agentic-workflow-for-tool-driven-route-optimization-with-deterministic-computation-and-structured-outputs/)
+
+▶ A Coding Implementation to Build Bulletproof Agentic Workflows with PydanticAI Using Strict Schemas, Tool Injection, and Model-Agnostic Execution [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20Workflows/pydanticai_bulletproof_agentic_workflows_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/19/a-coding-implementation-to-build-bulletproof-agentic-workflows-with-pydanticai-using-strict-schemas-tool-injection-and-model-agnostic-execution/)
 
 ▶ A Coding Implementation to Design a Stateful Tutor Agent with Long-Term Memory, Semantic Recall, and Adaptive Practice Generation [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Memory/stateful_tutor_long_term_memory_agent_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/15/a-coding-implementation-to-design-a-stateful-tutor-agent-with-long-term-memory-semantic-recall-and-adaptive-practice-generation/)
 
@@ -257,6 +286,24 @@
 
 ### Machine Learning & Data Science
 
+▶ A Coding Guide to Implement Advanced Differential Equation Solvers, Stochastic Simulations, and Neural Ordinary Differential Equations Using Diffrax and JAX [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Deep%20Learning/diffrax_differential_equations_neural_ode_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/19/a-coding-guide-to-implement-advanced-differential-equation-solvers-stochastic-simulations-and-neural-ordinary-differential-equations-using-diffrax-and-jax/)
+
+▶ Beyond Accuracy: Quantifying the Production Fragility Caused by Excessive, Redundant, and Low-Signal Features in Regression [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/Feature_Bloat.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/08/beyond-accuracy-quantifying-the-production-fragility-caused-by-excessive-redundant-and-low-signal-features-in-regression/)
+
+▶ How to Build Progress Monitoring Using Advanced tqdm for Async, Parallel, Pandas, Logging, and High-Performance Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/tqdm_production_progress_monitoring_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/07/how-to-build-progress-monitoring-using-advanced-tqdm-for-async-parallel-pandas-logging-and-high-performance-workflows/)
+
+▶ A Coding Guide to Build a Scalable End-to-End Machine Learning Data Pipeline Using Daft for High-Performance Structured and Image Data Processing [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/daft_end_to_end_ml_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/05/a-coding-guide-to-build-a-scalable-end-to-end-machine-learning-data-pipeline-using-daft-for-high-performance-structured-and-image-data-processing/)
+
+▶ A Coding Guide to Build a Scalable End-to-End Analytics and Machine Learning Pipeline on Millions of Rows Using Vaex [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/vaex_large_scale_analytics_and_ml_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/02/a-coding-guide-to-build-a-scalable-end-to-end-analytics-and-machine-learning-pipeline-on-millions-of-rows-using-vaex/)
+
+▶ How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature Importance, Interaction Effects, and Model Decision Breakdown [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/SHAP-IQ/shapiq_explainable_ai_feature_and_interaction_analysis_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/)
+
+▶ A Complete End-to-End Coding Guide to MLflow Experiment Tracking, Hyperparameter Optimization, Model Evaluation, and Live Model Deployment [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/MLFlow%20for%20LLM%20Evaluation/mlflow_experiment_tracking_and_model_serving_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/)
+
+▶ How to Build Interactive Geospatial Dashboards Using Folium with Heatmaps, Choropleths, Time Animation, Marker Clustering, and Advanced Interactive Plugins [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/folium_interactive_geospatial_visualization_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/27/how-to-build-interactive-geospatial-dashboards-using-folium-with-heatmaps-choropleths-time-animation-marker-clustering-and-advanced-interactive-plugins/)
+
+▶ A Coding Implementation to Simulate Practical Byzantine Fault Tolerance with Asyncio, Malicious Nodes, and Latency Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/pbft_asyncio_byzantine_latency_simulator_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/24/a-coding-implementation-to-simulate-practical-byzantine-fault-tolerance-with-asyncio-malicious-nodes-and-latency-analysis/)
+
 ▶ How to Build an Advanced, Interactive Exploratory Data Analysis Workflow Using PyGWalker and Feature-Engineered Data [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_pygwalker_interactive_eda_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/17/how-to-build-an-advanced-interactive-exploratory-data-analysis-workflow-using-pygwalker-and-feature-engineered-data/)
 
 ▶ [In-Depth Guide] The Complete CTGAN + SDV Pipeline for High-Fidelity Synthetic Data [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/ctgan_sdv_synthetic_data_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/13/in-depth-guide-the-complete-ctgan-sdv-pipeline-for-high-fidelity-synthetic-data/)
@@ -337,6 +384,12 @@
 ---
 
 ### LLMs,ML and Other AI Section
+
+▶ A Coding Implementation to Build an Uncertainty-Aware LLM System with Confidence Estimation, Self-Evaluation, and Automatic Web Research [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/uncertainty_aware_llm_confidence_self_evaluation_auto_research_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-uncertainty-aware-llm-system-with-confidence-estimation-self-evaluation-and-automatic-web-research/)
+
+▶ How to Build a Stable and Efficient QLoRA Fine-Tuning Pipeline Using Unsloth for Large Language Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/unsloth_qlora_stable_sft_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/03/03/how-to-build-a-stable-and-efficient-qlora-fine-tuning-pipeline-using-unsloth-for-large-language-models/)
+
+▶ A Coding Guide to Instrumenting, Tracing, and Evaluating LLM Applications Using TruLens and OpenAI Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Evaluation/trulens_llm_instrumentation_feedback_evaluation_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/)
 
 ▶ How to Align Large Language Models with Human Preferences Using Direct Preference Optimization, QLoRA, and Ultra-Feedback [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/dpo_alignment_qlora_ultrafeedback_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/12/how-to-align-large-language-models-with-human-preferences-using-direct-preference-optimization-qlora-and-ultra-feedback/)
 
@@ -437,4 +490,11 @@
 ▶ A Coding Guide to Demonstrate Targeted Data Poisoning Attacks in Deep Learning by Label Flipping on CIFAR-10 with PyTorch [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Security/targeted_data_poisoning_label_flipping_cifar10_pytorch_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/11/a-coding-guide-to-demonstrate-targeted-data-poisoning-attacks-in-deep-learning-by-label-flipping-on-cifar-10-with-pytorch/)
 
 ▶ How to Build a Multi-Turn Crescendo Red-Teaming Pipeline to Evaluate and Stress-Test LLM Safety Using Garak [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Adversarial%20Attacks/multiturn_crescendo_llm_safety_evaluation_with_garak_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/01/13/how-to-build-a-multi-turn-crescendo-red-teaming-pipeline-to-evaluate-and-stress-test-llm-safety-using-garak/)
+
+
+### AI Infrastructure
+
+▶ How to Build High-Performance GPU-Accelerated Simulations and Differentiable Physics Workflows Using NVIDIA Warp Kernels [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Scientific%20Computing/nvidia_warp_gpu_simulation_and_differentiable_physics_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/03/16/how-to-build-high-performance-gpu-accelerated-simulations-and-differentiable-physics-workflows-using-nvidia-warp-kernels/)
+
+▶ How to Build an Elastic Vector Database with Consistent Hashing, Sharding, and Live Ring Visualization for RAG Systems [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Distributed%20Systems/elastic_vector_db_consistent_hashing_rag_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/02/25/how-to-build-an-elastic-vector-database-with-consistent-hashing-sharding-and-live-ring-visualization-for-rag-systems/)
 
